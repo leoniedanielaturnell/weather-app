@@ -1,0 +1,43 @@
+body {
+  font-family: "Open Sans", sans-serif;
+  font-family: "Zen Kurenaido", sans-serif;
+  position: relative;
+  left: 30px;
+  top: 30px;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+h2 {
+  font-size: 20px;
+}
+
+.container-1 {
+  width: 50%;
+  padding: 40px;
+  font-size: 20px;
+  border: 2px;
+  border-style: solid;
+  border-color: black;
+  border-radius: 5px;
+}
+
+.current-symbol {
+  font-size: 80px;
+  background-color: cornflowerblue;
+  border-radius: 60px;
+}
+
+.current-city {
+  font-size: 40px;
+}
+
+.current-temperature {
+  font-size: 30px;
+}
+
+.temparetureUnit {
+  font-size: 20px;
+}
